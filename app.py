@@ -1,0 +1,1 @@
+print("StudyMind AI started")
